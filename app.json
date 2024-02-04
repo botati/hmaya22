@@ -1,0 +1,28 @@
+{
+    "name": "حــــذف الـــحـــســــابـات 🚫",
+    "description": "بوت حذف حسابات تليجرام",
+    "stack": "container",
+    "logo": "https://telegra.ph/file/bd0fde82d09f7681afc99.jpg",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "env": {
+        "api_id": {
+            "description": "26594855",
+            "value": "",
+            "required": true
+        },
+        "api_hash": {
+            "description": "714a6f72d41876b9209b7c1383c2a3c9",
+            "value": "",
+            "required": true
+        },
+        "bot_token": {
+            "description": "6884711381:AAGmREva6B3_DneIOYjvAcQGspPQOAgBCrY",
+            "value": "",
+            "required": true
+    }
+  }
+} 
